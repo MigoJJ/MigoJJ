@@ -1,3 +1,4 @@
+
 <h1 align="center">🗂️ MigoJJ · Source Repository Map</h1>
 <p align="center"><b>Clinical Software · Medical AI · Automation Tools</b></p>
 
@@ -10,29 +11,17 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  
   <!-- Build & Environment -->
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  
   <!-- Tools & Infrastructure -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware"/>
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MigoJJ&show_icons=true&theme=radical" alt="MigoJJ's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigoJJ&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MigoJJ&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🏥 &nbsp;EMR Systems &nbsp;<code>emr-systems/</code>
