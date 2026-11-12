@@ -43,8 +43,8 @@
 
 - 💓 &nbsp;**[EKG_GDS](https://github.com/MigoJJ/EKG_GDS)**
   - ↳ 심전도(EKG) 및 의료 신호 분석 파이프라인
-- 🤖 &nbsp;**[AI_2023.07](https://github.com/MigoJJ/AI_2023.07)**
-  - ↳ 딥러닝 분류 프레임워크 및 모델 레거시
+- 🤖 &nbsp;**[AI_Study](https://github.com/MigoJJ/AI-Study**
+  - ↳ AI PPT Study
 
 ---
 
