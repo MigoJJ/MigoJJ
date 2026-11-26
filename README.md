@@ -55,6 +55,8 @@
   - ↳ ADA 가이드 기반 처방 지원 시스템
 - 🩹 &nbsp;**[Guide-2026-Herpes-Zoater](https://github.com/MigoJJ/Guide-2026-Herpes-Zoater)**
   - ↳ 대상포진(Herpes Zoster) 2026 임상 가이드 시스템
+- 🩹 &nbsp;**[Guide-2026-Herpes-Zoater](https://github.com/MigoJJ/GDSEMR-DEXA-2026)**
+  - ↳ 골다공증(DEXA : Osteoporosis) 2026 임상 가이드 시스템 
 - 🏷️ &nbsp;**[ICD8_ver_011](https://github.com/MigoJJ/ICD8_ver_011)**
   - ↳ 질병 분류 코드 데이터 가공 유틸리티
 
